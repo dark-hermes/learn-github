@@ -7,6 +7,7 @@ def Range(start=0, end=0, step=1) :
 
 for i in Range(10) :
     print(i)
+    print("Mulia Firmansyah Arief")
 
 
 
